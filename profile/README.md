@@ -168,20 +168,6 @@ AUG aims to expand globally in:
 
 ---
 
-# Recent News Highlights
-
-- CSA smartEarth 2025 presentation on AI-powered freshwater biodiversity assessment
-- Continued ISO 9001:2015 quality certification
-- OVIN-funded radar monitoring projects
-- Smart City Expo participation in Barcelona
-- Collaboration projects involving:
-  - Black & McDonald
-  - University of Toronto
-  - Fort McKay First Nation
-  - Wood Buffalo Environmental Association
-
----
-
 # Contact Information
 
 ## Corporate Headquarters
